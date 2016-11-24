@@ -1,0 +1,9 @@
+Origin: Ashmit Sohi
+Label: Ashmit Singh Sohi
+Suite: stable
+Version: 0.1
+Codename: dslk
+Architectures: iphoneos-arm
+Components: main
+Description: Repository of Ashmit Sohi
+
