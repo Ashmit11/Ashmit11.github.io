@@ -11,7 +11,7 @@ Size: 87916
 MD5sum: 6475BF5A81E10F583CC16BEAE281C19D
 SHA1: 6541873AB1031884D596FDB5434505AC7BBD3E75
 SHA-256: D35773EED6F51F2EBA7FBB04C7AAFD3E7DB231CD7E45EE050C1D81A759A32FF1
-Filename: deb_files/com.ashmitsohi.anonymousrespringlogo_1.1_iphoneos-arm.deb
+Filename: debs//com.ashmitsohi.anonymousrespringlogo_1.1_iphoneos-arm.deb
 
 Package: com.ashmitsohi.bundleids
 Name: Bundleids
@@ -25,5 +25,5 @@ Size: 39504
 MD5sum: 0DE15E326EC2641793BE10B6D23C7932
 SHA1: DFA753A3F51D82C524D0162316D985A091E1A0D5
 SHA-256: CDEB98C1DBFC4D8644F5DCA3455841AAD8BA9B913BE8A6899484162F734FC96A
-Filename: deb_files/com.ashmitsohi.bundleids_1_iphoneos-arm.deb
+Filename: debs//com.ashmitsohi.bundleids_1_iphoneos-arm.deb
 
