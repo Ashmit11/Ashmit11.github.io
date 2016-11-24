@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Email me to submit your package</name>
+			<url>ashmit_sohi1@yahoo.com</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>Liked this package? Give me your review.</name>
+			<url>https://www.facebook.com/public/Ashmit-Sohi</url>
+			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
