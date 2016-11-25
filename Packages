@@ -14,6 +14,22 @@ SHA-256: d35773eed6f51f2eba7fbb04c7aafd3e7db231cd7e45ee050c1d81a759a32ff1
 Filename: ./debs/com.ashmitsohi.anonymousrespringlogo_1.1_iphoneos-arm.deb
 Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmitsohi.anonymousrespringlogo
 
+Package: com.ashmit11.anonymousrespringlogo
+Name: Anonymous Respring Logo
+Version: 2.1
+Architecture: iphoneos-arm
+Description: Replaces the apple logo with an anonymous logo on respringing.
+Maintainer: Ashmit Sohi <ashmit_sohi1@yahoo.com>
+Author: Ashmit11 <ashmit_sohi1@yahoo.com>
+Section: Themes (LOCKSCREEN)
+Depends: Winterboard
+Size: 148026
+MD5sum: afaf363667ed0a963b5e9147a7e24f05
+SHA1: bd5c7c87cea97224b9758f4fe9f0e685ddfa43af
+SHA-256: 829dbffdde4642a56238b0b16ffc9a057213eded71407f478f0b26adbdf63412
+Filename: ./debs/com.ashmit11.anonymousrespringlogo_2.1_iphoneos-arm.deb
+Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.anonymousrespringlogo
+
 
 
 

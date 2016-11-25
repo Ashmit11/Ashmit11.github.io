@@ -1,0 +1,43 @@
+<package>
+	<id>com.ashmitsohi.anonymousrespringlogo</id>
+	<name>Anonymous Respring Logo</name>
+	<version>2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Winterboard</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This package replaces the apple logo with an anonymous face on respringing your device.</description>
+		<description>Apply using winterboard.</description>
+		<description><![CDATA[
+		IOS 7 - IOS 9<br/> 
+		ONLY FOR IPHONE 5 AND IPHONE 5S
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 2</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>NEW UPDATE</change>
+		<change>MORE LOGOS</change>
+		<change>A MINOR BUG FIXED</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Contact Developer</name>
+			<url>https://www.facebook.com/sohiashmit</url>
+		</link>
+	</links>
+</package>
