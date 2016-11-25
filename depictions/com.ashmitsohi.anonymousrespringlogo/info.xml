@@ -1,6 +1,6 @@
 <package>
 	<id>com.ashmitsohi.anonymousrespringlogo</id>
-	<name>Full Package</name>
+	<name>Anonymous Respring Logo</name>
 	<version>1.1</version>
 	<compatibility>
 		<firmware>
@@ -8,36 +8,36 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>winterboard</package>
+		<package>Winterboard</package>
 	</dependencies>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>This package replaces the apple logo with an anonymous face on respringing your device.</description>
+		<description>Apply using winterboard.</description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		BY ASHMIT have<br/> 
+		SINGH SOHI
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<description>Here it is</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<description>Here it is</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>A MINOR FIXD</change>
+		<change>A LITTLE CHANGE IN THE SIZE OF THE LOGO</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
+			<name>Ashmit Sohi Facebook contact</name>
+			<url>https://www.facebook.com/public/Ashmit-Sohi</url>
 		</link>
 	</links>
 </package>
