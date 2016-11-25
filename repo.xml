@@ -1,8 +1,13 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Liked this package? Give me your review.</name>
-			<url>https://www.facebook.com/public/Ashmit-Sohi</url>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/reposi3</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>I want this depiction template</name>
+			<url>https://github.com/supermamon/Reposi3</url>
 			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
