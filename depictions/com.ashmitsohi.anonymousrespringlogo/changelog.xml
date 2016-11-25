@@ -1,0 +1,12 @@
+<changelog>
+	<changes>
+		<version>1.1</version>
+		<change>Second release</change>
+		<change>A minor bug fixed</change>
+		<change>A little change in the size of the logo</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>
