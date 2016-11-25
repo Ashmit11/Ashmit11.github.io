@@ -1,9 +1,8 @@
-Origin: Ashmit Sohi
-Label: Ashmit Singh Sohi
+Origin: Reposi3
+Label: Reposi3
 Suite: stable
-Version: 0.1
-Codename: dslk
+Version: 1.0
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Repository of Ashmit Singh Sohi
-
+Description: Reposi3 - a cydia repo template
