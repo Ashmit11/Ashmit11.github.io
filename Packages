@@ -1,6 +1,6 @@
-Package: com.ashmit11.anonymousrespringlogo
+Package: com.ashmitsohi.anonymousrespringlogo
 Name: Anonymous Respring Logo
-Version: 2.1
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Replaces the apple logo with a cool anonymous logo on respringing.Apply using winterboard.
 Maintainer: Ashmit Sohi <ashmit_sohi1@yahoo.com>
@@ -12,8 +12,7 @@ MD5sum: afaf363667ed0a963b5e9147a7e24f05
 SHA1: bd5c7c87cea97224b9758f4fe9f0e685ddfa43af
 SHA-256: 829dbffdde4642a56238b0b16ffc9a057213eded71407f478f0b26adbdf63412
 Filename: ./debs/com.ashmitsohi.anonymousrespringlogo_1.1_iphoneos-arm.deb
-Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.anonymousrespringlogo
-
+Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmitsohi.anonymousrespringlogo
 
 
 

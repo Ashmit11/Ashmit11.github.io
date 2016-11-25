@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/killersingh_11</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>I want to report issues</name>
+			<url>https://www.facebook.com/sohiashmit</url>
+			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
