@@ -14,30 +14,30 @@
 		<description>This package replaces the apple logo with an anonymous face on respringing your device.</description>
 		<description>Apply using winterboard.</description>
 		<description><![CDATA[
-		BY ASHMIT have<br/> 
-		SINGH SOHI
+		IOS 7 - IOS 9<br/> 
+		ONLY FOR IPHONE 5 AND IPHONE 5S
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Here it is</description>
+			<description>Screenshot 1</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>Here it is</description>
+			<description>Screenshot 2</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>A MINOR FIXD</change>
+		<change>NEW UPDATE</change>
+		<change>A MINOR FIXED</change>
 		<change>A LITTLE CHANGE IN THE SIZE OF THE LOGO</change>
 	</changelog>
 	<links>
 		<link>
 			<name>Ashmit Sohi Facebook contact</name>
-			<url>https://www.facebook.com/public/Ashmit-Sohi</url>
+			<url>https://www.facebook.com/sohiashmit</url>
 		</link>
 	</links>
 </package>

@@ -7,8 +7,8 @@
 		</link>
 		<link>
 			<name>I want to report issues</name>
-			<url>https://github.com/supermamon/Reposi3</url>
-			<iconclass>https://www.facebook.com/sohiashmit</iconclass>
+			<url>https://www.facebook.com/sohiashmit</url>
+			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
 </repo>
