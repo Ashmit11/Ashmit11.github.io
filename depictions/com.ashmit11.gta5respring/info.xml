@@ -1,0 +1,39 @@
+<package>
+	<id>com.ashmit11.gta5respring</id>
+	<name>GTA 5 Respring</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Winterboard</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This package replaces the apple logo with a GTA 5 logo on respringing your device.</description>
+		<description>Apply using winterboard.</description>
+		<description><![CDATA[
+		IOS 7 - IOS 9<br/> 
+		WORKS FINE WITH ALL THE IPHONES.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1</description>
+			<image>cydia.jpg</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>NEW UPDATE</change>
+		<change>A LITTLE CHANGE IN THE SIZE OF THE LOGO</change>
+		<change>A MINOR BUG FIXED</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Contact Developer</name>
+			<url>https://www.facebook.com/sohiashmit</url>
+		</link>
+	</links>
+</package>

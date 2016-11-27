@@ -14,6 +14,24 @@ SHA-256: 829dbffdde4642a56238b0b16ffc9a057213eded71407f478f0b26adbdf63412
 Filename: ./debs/com.ashmit11.anonymousrespringlogo_2.1_iphoneos-arm.deb
 Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.anonymousrespringlogo
 
+Package: com.ashmit11.gta5respring
+Name: GTA 5 Respring
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Replaces the apple logo with a GTA 5 logo on respringing.
+Maintainer: Ashmit Sohi <ashmit_sohi1@yahoo.com>
+Author: Ashmit11 <ashmit_sohi1@yahoo.com>
+Section: Themes (LOCKSCREEN)
+Depends: Winterboard
+Size: 1960694
+MD5sum: 48ea7a2034f36b0808bf5798077fc85d
+SHA1: d4336207f5ec243df945cea0f3cb38751d6c4b2d
+SHA-256: 9d9fbbd3e6ed730563f2eedcf04d376f88ddbbd09d6210b59ac3691e823e91d1
+Filename: ./debs/com.ashmit11.gta5respring_1.1_iphoneos-arm.deb
+Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.gta5respring
+
+
+
 
 
 
