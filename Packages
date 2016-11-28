@@ -30,21 +30,6 @@ SHA-256: 9d9fbbd3e6ed730563f2eedcf04d376f88ddbbd09d6210b59ac3691e823e91d1
 Filename: ./debs/com.ashmit11.gta5respring_1.1_iphoneos-arm.deb
 Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.gta5respring
 
-Package: com.ashmit11.datapaths
-Name: Data Paths
-Version: 1.1
-Architecture: iphoneos-arm
-Description: Data Paths
-Maintainer: Ashmit Sohi <ashmit_sohi1@yahoo.com>
-Author: nin9tyfour <ashmit_sohi1@yahoo.com>
-Section: Tweaks
-Depends: Mobile Substrate
-Size: 81570
-MD5sum: 810ca27caa7b8dabfb59c43f1eefcf57
-SHA1: e928db90e6b96d784942665c51a923996d0c95ca
-SHA-256: 8226e95f73a20af4a284fb98fe72afbb2634ecec00aa3f24b66d76853ed8e353
-Filename: ./debs/com.ashmit11.datapaths_1.1_iphoneos-arm.deb
-Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.datapaths
 
 
 
