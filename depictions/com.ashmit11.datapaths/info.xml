@@ -1,0 +1,41 @@
+<package>
+	<id>com.ashmit11.datapaths</id>
+	<name>Data Paths</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Mobile Substrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This package lets you find sandbox paths in ifile.</description>
+		<description>ALL CREADITS FOR THIS PACKAGE GOES TO nin9tyfour</description>
+		<description><![CDATA[
+		IOS 8 - IOS 9<br/> 
+		IT WORKS WITH ALL THE FILE VIEWERS
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 2</description>
+			<image>cydia2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Contact Developer</name>
+			<url>https://www.twitter.com/nin9tyfour</url>
+		</link>
+	</links>
+</package>
