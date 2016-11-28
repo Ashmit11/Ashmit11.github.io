@@ -1,0 +1,30 @@
+<package>
+	<id>com.ashmit11.datapaths</id>
+	<name>Data Paths</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>Mobile Substrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This package enables you to find sandbox paths in ifile easily.</description>
+		<description><![CDATA[
+		IOS 8 - IOS 9<br/> 
+		LOOK FOR DATA PATHS IN SETTINGS
+		]]>
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Contact Developer</name>
+			<url>https://www.facebook.com/sohiashmit</url>
+		</link>
+	</links>
+</package>
