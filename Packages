@@ -30,6 +30,22 @@ SHA-256: 9d9fbbd3e6ed730563f2eedcf04d376f88ddbbd09d6210b59ac3691e823e91d1
 Filename: ./debs/com.ashmit11.gta5respring_1.1_iphoneos-arm.deb
 Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.gta5respring
 
+Package: com.ashmit11.ironmanrespring
+Name: Iron Man Respring
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Replaces the apple logo with an iron man logo on respringing.
+Maintainer: Ashmit Sohi <ashmit_sohi1@yahoo.com>
+Author: Ashmit11 <ashmit_sohi1@yahoo.com>
+Section: Themes (LOCKSCREEN)
+Depends: Winterboard
+Size: 590704
+MD5sum: f15c82ce7a38803b9041cf6202368a42
+SHA1: 7255038efdfceb9e3ed7a4d420fb670824e80f45
+SHA-256: 3f474f8f2662159aad76c816464582501b65d4c6fce0d30701e690178a38f4f6
+Filename: ./debs/com.ashmit11.ironmanrespring_1.1_iphoneos-arm.deb
+Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.ironmanrespring
+
 
 
 
