@@ -46,6 +46,22 @@ SHA-256: 3f474f8f2662159aad76c816464582501b65d4c6fce0d30701e690178a38f4f6
 Filename: ./debs/com.ashmit11.ironmanrespring_1.1_iphoneos-arm.deb
 Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.ironmanrespring
 
+Package: com.ashmit11.mortalkombatrespring
+Name: Mortal Kombat Respring
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Replaces the apple logo with a mortal kombat logo on respringing.
+Maintainer: Ashmit Sohi <ashmit_sohi1@yahoo.com>
+Author: Ashmit11 <ashmit_sohi1@yahoo.com>
+Section: Themes (Respring Logos)
+Depends: Winterboard
+Size: 962166
+MD5sum: c5ce0ecc6dd3d9dbaa3e88089c29cbc7
+SHA1: 5c4daa217a5e08a5379c7595d5083fb57690a1c5
+SHA-256: 1b02f3924aec74d72ed933c856091251f07531eb68224ccec567082c92c340ba
+Filename: ./debs/com.ashmit11.mortalkombatrespring_1.1_iphoneos-arm.deb
+Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.mortalkombatrespring
+
 
 
 
