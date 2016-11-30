@@ -62,6 +62,23 @@ SHA-256: 1b02f3924aec74d72ed933c856091251f07531eb68224ccec567082c92c340ba
 Filename: ./debs/com.ashmit11.mortalkombatrespring_1.1_iphoneos-arm.deb
 Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.mortalkombatrespring
 
+Package: com.ashmit11.kikhackbyashmit11
+Name: Kik hack by Ashmit11
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This package enables you to fake kik camera.
+Maintainer: Ashmit Sohi <ashmit_sohi1@yahoo.com>
+Author: Ashmit11 <ashmit_sohi1@yahoo.com>
+Section: Tweaks
+Depends: MobileSubstrate
+Size: 35870
+MD5sum: 741c4b9fbf12378e5e3f737c847d811f
+SHA1: 4b7e5172e1f24f8dd48daf941acd2e9d96c952a5
+SHA-256: b762d2313df56e3b1417a2b1d545bf55ee211d2d11840a78d1ffe80c0d72236b
+Filename: ./debs/com.ashmit11.kikhackbyashmit11_1.0_iphoneos-arm.deb
+Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.kikhackbyashmit11
+
+
 
 
 
