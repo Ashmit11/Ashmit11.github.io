@@ -1,27 +1,28 @@
 <package>
-	<id>com.ashmit11.kikhackbyashmit11</id>
-	<name>Kik hack by Ashmit11</name>
+	<id>com.ashmit11.multiiaphack</id>
+	<name>Multi IAP Hack</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>6.0</miniOS>
+			<miniOS>8.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>MobileSubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>This package lets you fake kik camera.</description>
-		<description>It only works with kik version 11.0.0 or less (You can downgrade your kik by using AppAdmin which is available on cydia.</description>
+		<description>This package enables you to hack in app purchases for many apps and games.</description>
+		<description>It also provides you an option to prevent bans and avoid crashes.</description>
 		<description><![CDATA[
-		IOS 7 - IOS 9<br/> 
+		IOS 8 - IOS 9<br/> 
 		WORKS FINE WITH ALL IPHONES AND IPADS
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>NO SCREENSHOTS</description>
+			<description>Screenshot 1</description>
+			<image>cydia.jpg</image>
 		</screenshot>				
 	</screenshots>
 	<changelog>

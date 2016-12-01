@@ -78,6 +78,22 @@ SHA-256: b762d2313df56e3b1417a2b1d545bf55ee211d2d11840a78d1ffe80c0d72236b
 Filename: ./debs/com.ashmit11.kikhackbyashmit11_1.0_iphoneos-arm.deb
 Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.kikhackbyashmit11
 
+Package: com.ashmit11.multiiaphack
+Name: Multi IAP Hack
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This package enables you to hack IAP.
+Maintainer: Ashmit Sohi <ashmit_sohi1@yahoo.com>
+Author: Ashmit11 <ashmit_sohi1@yahoo.com>
+Section: Tweaks
+Depends: MobileSubstrate
+Size: 59456
+MD5sum: 15b493c05640eff3b64e98ee231f5c77
+SHA1: c71c189de07c59baac853dac9043896caba67f46
+SHA-256: 088544923e49c3847ca614002266153a06d64bc47f1c1c9fba3f4dfd62cc3762
+Filename: ./debs/com.ashmit11.multiiaphack_1.0_iphoneos-arm.deb
+Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.multiiaphack
+
 
 
 
