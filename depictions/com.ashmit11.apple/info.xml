@@ -1,0 +1,40 @@
+<package>
+	<id>com.ashmit11.apple</id>
+	<name>APPLE</name>
+	<version>1.5.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This package lets you customize your respring screen. It'll let you change the apple logo color, background color and you can also set a custom image on the respring screen. This is the easiest way to customize your respring screen.</description>
+		<description><![CDATA[
+		IOS 8 - IOS 9<br/> 
+		WORKS FINE WITH ALL THE IPHONES AND IPADS
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 2</description>
+			<image>cydia2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Contact Developer</name>
+			<url>https://www.facebook.com/sohiashmit</url>
+		</link>
+	</links>
+</package>

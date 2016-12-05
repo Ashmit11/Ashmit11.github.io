@@ -94,6 +94,29 @@ SHA-256: 088544923e49c3847ca614002266153a06d64bc47f1c1c9fba3f4dfd62cc3762
 Filename: ./debs/com.ashmit11.multiiaphack_1.0_iphoneos-arm.deb
 Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.multiiaphack
 
+Package: com.ashmit11.apple
+Name: APPLE
+Version: 1.5.1
+Architecture: iphoneos-arm
+Description: APPLE RESPRING LOGO CUSTOMIZER
+Maintainer: Ashmit Sohi <ashmit_sohi1@yahoo.com>
+Author: Ashmit11 <ashmit_sohi1@yahoo.com>
+Section: Tweaks
+Depends: MobileSubstrate
+Size: 582296
+MD5sum: 83d06d221702e807db7f04e26c97ddea
+SHA1: 47504b6dcf1c67196f0ddba38032972dfb7be74c
+SHA-256: bff6e4da81bf1a8dc071df16a33e8ad94a544c3d65395925c25de49bae8098c2
+Filename: ./debs/com.ashmit11.apple_1.5.1_iphoneos-arm.deb
+Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.apple
+
+
+
+
+
+
+
+
 
 
 
