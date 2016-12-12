@@ -1,27 +1,27 @@
 <package>
-	<id>com.ashmit11.kikhackbyashmit11</id>
-	<name>Kik hack by Ashmit11</name>
+	<id>com.ashmit11.devinfo</id>
+	<name>Dev Info</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>6.0</miniOS>
+			<miniOS>3.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>MobileSubstrate</package>
+		<package>Mobile Terminal</package>
 	</dependencies>
 	<descriptionlist>
-		<description>This package lets you fake kik camera.</description>
-		<description>It only works with kik version 11.0.0 or less (You can downgrade your kik by using AppAdmin which is available on cydia)</description>
+		<description>Want to request custom themes or tweaks? Type dev in the terminal. You'll find different ways to contact me.</description>
 		<description><![CDATA[
-		IOS 7 - IOS 9<br/> 
-		WORKS FINE WITH ALL IPHONES AND IPADS
+		THIS IS A TERMINAL SCRIPT<br/> 
+		USE ANY TERMINAL FROM CYDIA
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description>NO SCREENSHOTS</description>
+			<image>cydia.jpg</image>
 		</screenshot>				
 	</screenshots>
 	<changelog>
