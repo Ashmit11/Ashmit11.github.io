@@ -118,13 +118,14 @@ Description: DEV INFO
 Maintainer: Ashmit Sohi <ashmit_sohi1@yahoo.com>
 Author: Ashmit11 <ashmit_sohi1@yahoo.com>
 Section: Terminal Support
-Depends: Mobile Terminal
+Depends: MobileSubstrate
 Size: 826
 MD5sum: 184acab81e1fe05dd506760f7a46e9dd
 SHA1: 8c7c38071948058bad31843421d89d175104ad42
 SHA-256: d911d832877a4bd86b245f4bb8de81419419713e21db97cea1b73106e3eca0dd
 Filename: ./debs/com.ashmit11.devinfo_1.0_iphoneos-arm.deb
 Depiction: https://Ashmit11.github.io/depictions/?p=com.ashmit11.devinfo
+
 
 
 
